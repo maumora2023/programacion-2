@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Restauran</string>
+    <string name="total_platos">Total: %.2f</string>
+</resources>
